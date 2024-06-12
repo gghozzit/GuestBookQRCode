@@ -1,0 +1,116 @@
+
+body {
+    background: url('img/bg.png') no-repeat center; background-size: cover; font-family: sans-serif;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+-webkit-appearance: none;
+margin: 0;
+}
+
+.btn-uin {
+    margin-top: -12px;
+}
+
+.btn-info {
+    background-color: #222;
+    border: none;
+    color: #ddd;
+    float: right;
+    font-weight: bold;
+}
+
+.btn-info:hover {
+    background: #222;
+    color: #9F8953;
+    border: none;
+    font-weight: bold;
+}
+
+.btn-dark {
+    background-color: #008a07;
+    border: none;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.btn-dark:hover {
+    background: #06e724;
+    color: #ffffff;
+    border: none;
+    font-weight: bold;
+}
+
+.form-control {
+    background-color: white;
+}
+
+.form-control:focus {
+    border-color: white;
+    box-shadow: 0 0 5px #9F8953;
+}
+
+.table {
+    font-weight: bold;
+    text-align: center;
+    border-color: darkgrey;
+    background-color: white;
+}
+
+.card {
+    border: solid dimgrey;
+    border-radius: 6px;
+}
+
+.card-header {
+    background-color: #00900e;
+    color: #ddd;
+    border-bottom: 4px solid #007213;
+}
+
+.card-body {
+    background-color: #f6f6f6;
+    color: black;
+    border-radius: 6px;
+}
+
+label {
+    font-weight: bold;
+}
+
+table.table tr th {
+    background-color: #444; !important; 
+    color: white !important;
+}
+
+.text-h {
+    font-weight: bold;
+    color: lightgrey;
+}
+
+h4 {
+    font-family: Segoe UI;
+    font-weight: bold;
+    color: hsl(0, 0%, 100%);
+}
+
+.alert-dark {
+    background-color: #222;
+    color: #ddd;
+    border: none;
+    text-align: center;
+    margin-bottom: -20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
